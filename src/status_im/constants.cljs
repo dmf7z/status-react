@@ -92,11 +92,11 @@
              "mailserver-b" {:id      "mailserver-b" ;mail-02.do-ams3.eth.beta
                              :name    "Status mailserver B"
                              :password inbox-password
-                             :address "enode://7aa648d6e855950b2e3d3bf220c496e0cae4adfddef3e1e6062e6b177aec93bc6cdcf1282cb40d1656932ebfdd565729da440368d7c4da7dbd4d004b1ac02bf8@206.189.243.169:30504"}
+                             :address "enode://6aa648d6e855950b2e3d3bf220c496e0cae4adfddef3e1e6062e6b177aec93bc6cdcf1282cb40d1656932ebfdd565729da440368d7c4da7dbd4d004b1ac02bf8@206.189.108.63:30504"}
              "mailserver-c" {:id      "mailserver-c" ;mail-03.do-ams3.eth.beta
                              :name    "Status mailserver C"
                              :password inbox-password
-                             :address "enode://8a64b3c349a2e0ef4a32ea49609ed6eb3364be1110253c20adc17a3cebbc39a219e5d3e13b151c0eee5d8e0f9a8ba2cd026014e67b41a4ab7d1d5dd67ca27427@206.189.243.168:30504"}
+                             :address "enode://6a64b3c349a2e0ef4a32ea49609ed6eb3364be1110253c20adc17a3cebbc39a219e5d3e13b151c0eee5d8e0f9a8ba2cd026014e67b41a4ab7d1d5dd67ca27427@206.189.7.30:30504"}
              "mailserver-d" {:id      "mailserver-d" ;mail-01.gc-us-central1-a.eth.beta
                              :name    "Status mailserver D"
                              :password inbox-password
@@ -104,11 +104,11 @@
              "mailserver-e" {:id      "mailserver-e" ;mail-02.gc-us-central1-a.eth.beta
                              :name    "Status mailserver E"
                              :password inbox-password
-                             :address "enode://015e22f6cd2b44c8a51bd7a23555e271e0759c7d7f52432719665a74966f2da456d28e154e836bee6092b4d686fe67e331655586c57b718be3997c1629d24167@35.226.21.19:30504"}
+                             :address "enode://615e22f6cd2b44c8a51bd7a23555e271e0759c7d7f52432719665a74966f2da456d28e154e836bee6092b4d686fe67e331655586c57b718be3997c1629d24167@35.226.21.19:30504"}
              "mailserver-f" {:id      "mailserver-f" ;mail-03.gc-us-central1-a.eth.beta
                              :name    "Status mailserver F"
                              :password inbox-password
-                             :address "enode://531e252ec966b7e83f5538c19bf1cde7381cc7949026a6e499b6e998e695751aadf26d4c98d5a4eabfb7cefd31c3c88d600a775f14ed5781520a88ecd25da3c6@35.225.227.79:30504"}}
+                             :address "enode://631e252ec966b7e83f5538c19bf1cde7381cc7949026a6e499b6e998e695751aadf26d4c98d5a4eabfb7cefd31c3c88d600a775f14ed5781520a88ecd25da3c6@35.225.227.79:30504"}}
    :mainnet {"mailserver-a" {:id      "mailserver-a" ;mail-01.do-ams3.eth.beta
                              :name    "Status mailserver A"
                              :password inbox-password
@@ -116,11 +116,11 @@
              "mailserver-b" {:id      "mailserver-b" ;mail-02.do-ams3.eth.beta
                              :name    "Status mailserver B"
                              :password inbox-password
-                             :address "enode://7aa648d6e855950b2e3d3bf220c496e0cae4adfddef3e1e6062e6b177aec93bc6cdcf1282cb40d1656932ebfdd565729da440368d7c4da7dbd4d004b1ac02bf8@206.189.243.169:30504"}
+                             :address "enode://6aa648d6e855950b2e3d3bf220c496e0cae4adfddef3e1e6062e6b177aec93bc6cdcf1282cb40d1656932ebfdd565729da440368d7c4da7dbd4d004b1ac02bf8@206.189.243.169:30504"}
              "mailserver-c" {:id      "mailserver-c" ;mail-03.do-ams3.eth.beta
                              :name    "Status mailserver C"
                              :password inbox-password
-                             :address "enode://8a64b3c349a2e0ef4a32ea49609ed6eb3364be1110253c20adc17a3cebbc39a219e5d3e13b151c0eee5d8e0f9a8ba2cd026014e67b41a4ab7d1d5dd67ca27427@206.189.243.168:30504"}
+                             :address "enode://6a64b3c349a2e0ef4a32ea49609ed6eb3364be1110253c20adc17a3cebbc39a219e5d3e13b151c0eee5d8e0f9a8ba2cd026014e67b41a4ab7d1d5dd67ca27427@206.189.243.168:30504"}
              "mailserver-d" {:id      "mailserver-d" ;mail-01.gc-us-central1-a.eth.beta
                              :name    "Status mailserver D"
                              :password inbox-password
@@ -128,11 +128,11 @@
              "mailserver-e" {:id      "mailserver-e" ;mail-02.gc-us-central1-a.eth.beta
                              :name    "Status mailserver E"
                              :password inbox-password
-                             :address "enode://015e22f6cd2b44c8a51bd7a23555e271e0759c7d7f52432719665a74966f2da456d28e154e836bee6092b4d686fe67e331655586c57b718be3997c1629d24167@35.226.21.19:30504"}
+                             :address "enode://615e22f6cd2b44c8a51bd7a23555e271e0759c7d7f52432719665a74966f2da456d28e154e836bee6092b4d686fe67e331655586c57b718be3997c1629d24167@35.226.21.19:30504"}
              "mailserver-f" {:id      "mailserver-f" ;mail-03.gc-us-central1-a.eth.beta
                              :name    "Status mailserver F"
                              :password inbox-password
-                             :address "enode://531e252ec966b7e83f5538c19bf1cde7381cc7949026a6e499b6e998e695751aadf26d4c98d5a4eabfb7cefd31c3c88d600a775f14ed5781520a88ecd25da3c6@35.225.227.79:30504"}}
+                             :address "enode://631e252ec966b7e83f5538c19bf1cde7381cc7949026a6e499b6e998e695751aadf26d4c98d5a4eabfb7cefd31c3c88d600a775f14ed5781520a88ecd25da3c6@35.225.227.79:30504"}}
    :rinkeby {"mailserver-a" {:id     "mailserver-a"
                              :name   "Status mailserver A"
                              :password inbox-password
